@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Deep Learning / Computer Vision"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "secutron"
+description              : "space for gray developers who want to survive"
 url                      : "https://secutron.github.ir" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
