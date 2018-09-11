@@ -58,4 +58,4 @@ hero:
 # plugin
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-125587105-1' # leave blank if you don't want google analytics
-disqus_shortname:   'secutron'
+disqus_shortname:   'secutron''
