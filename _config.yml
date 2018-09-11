@@ -1,6 +1,6 @@
 # Site
 title:              secutron's blog
-tagline:            'ray programmer'
+tagline:            'gray programmer'
 description:        "blog for gray of deep learning and computer vision"
 logo:               'assets/img/logo.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
