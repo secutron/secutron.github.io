@@ -52,8 +52,8 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: https://secutron.github.io/public/img/picture.JPG
-  caption: bla bla
+  image: https://secutron.github.io/assets/img/baby.jpg
+  caption: Action/Activity for baby caring
 
 # plugin
 mathjax: true # whether support mathjax
