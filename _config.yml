@@ -23,11 +23,6 @@ paginate_path: '/blog/page:num'
 permalink: pretty
 version: 1.0.0
 
-# plugin
-mathjax: true # whether support mathjax
-google_analytics_token: 'UA-125587105-1' # leave blank if you don't want google analytics
-disqus_shortname:   'secutron''
-
 # About/contact
 author:
   name: secutron
@@ -60,5 +55,7 @@ hero:
   image: https://secutron.github.io/public/img/picture.JPG
   caption: bla bla
 
-jekyll-mentions:
-    base_url: /
+# plugin
+mathjax: true # whether support mathjax
+google_analytics_token: 'UA-125587105-1' # leave blank if you don't want google analytics
+disqus_shortname:   'secutron''
