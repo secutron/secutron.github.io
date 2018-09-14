@@ -1,11 +1,6 @@
 ---
-published: true
-layout: post
-category: Action
-tags: unit_action
-comments: true
-title: "Unit Actions - Face"
-date: 2018-09-14 20:50:25 -0400
+
+
 ---
 
 <h1 id="unit-actions---face">Unit Actions - Face</h1>
@@ -15,7 +10,6 @@ date: 2018-09-14 20:50:25 -0400
 <p>얼굴에서 찾을 수 있는 unit actions의 일부 예를 다음 그림에서 살펴볼 수 있습니다.</p>
 <p><img src="https://imgur.com/a/bOolZg9" alt="enter image description here"><br>
 <img src="https://imgur.com/FGdGgbx" alt="enter image description here"></p>
-<blockquote class="imgur-embed-pub" lang="en"><a href="//imgur.com/bOolZg9"></a></blockquote>
 <p>test test</p>
 <h2 id="katex">KaTeX</h2>
 <p>You can render LaTeX mathematical expressions using <a href="https://khan.github.io/KaTeX/">KaTeX</a>:</p>
