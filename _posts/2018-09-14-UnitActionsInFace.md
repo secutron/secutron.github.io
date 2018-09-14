@@ -1,11 +1,6 @@
 ---
-published: true
-layout: post
-category: post
-tags: GPA
-comments: true
-title: "Collection of GPAs"
-date: 2018-08-27 17:50:25 -0400
+
+
 ---
 
 <h1 id="unit-actions---face">Unit Actions - Face</h1>
@@ -13,8 +8,7 @@ date: 2018-08-27 17:50:25 -0400
 <p><a href="https://lajc.epn.edu.ec/index.php/LAJC/article/download/88/50">Human Activity Recognition in a Car with Embedded Devices</a></p>
 <h1 id="example-of-unit-actions-in-face-region">Example of unit actions in face region</h1>
 <p>얼굴에서 찾을 수 있는 unit actions의 일부 예를 다음 그림에서 살펴볼 수 있습니다.</p>
-<p><img src="https://imgur.com/a/bOolZg9" alt="enter image description here"><br>
-<img src="https://imgur.com/FGdGgbx" alt="enter image description here"></p>
+<p><img src="https://imgur.com/a/bOolZg9" alt="enter image description here"></p>
 <p>test test</p>
 <h2 id="katex">KaTeX</h2>
 <p>You can render LaTeX mathematical expressions using <a href="https://khan.github.io/KaTeX/">KaTeX</a>:</p>
