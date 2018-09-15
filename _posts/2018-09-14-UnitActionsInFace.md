@@ -9,12 +9,12 @@ date: 2018-09-15 07:51:01 -0400
 ---
 
 <hr>
-<h2 id="published-truelayout-postcategory-actiontags-unit_actioncomments-truetitle-unit-actions---facedate-2018-09-14-195025--0400">published: true<br>
+<h2 id="published-truelayout-postcategory-actiontags-unit_actioncomments-truetitle-unit-actions---face-kordate-2018-09-14-195025--0400">published: true<br>
 layout: post<br>
 category: Action<br>
 tags: unit_action<br>
 comments: true<br>
-title: "Unit Actions - Face<br>
+title: “Unit Actions - Face (Kor)”<br>
 date: 2018-09-14 19:50:25 -0400</h2>
 <h1 id="개요">개요</h1>
 <p>얼굴영역의 분석을 위해, 얼굴과 관련된 단위 액션(<strong>unit actions</strong>)을 정리합니다. 주로 다음 논문을 참고하였습니다.</p>
