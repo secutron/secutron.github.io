@@ -4,14 +4,14 @@ layout: post
 category: Action
 tags: unit_action
 comments: true
-title: "Unit Actions - Face
+title: "Unit Actions - Face (Kor)"
 date: 2018-09-14 19:50:25 -0400
 ---
 
-Unit Actions - Face
+# Unit Actions - Face
 얼굴영역의 분석을 위해, 얼굴과 관련된 단위 액션(unit actions)을 정리합니다. 주로 다음 논문을 참고하였습니다.
 
-Human Activity Recognition in a Car with Embedded Devices
+## Human Activity Recognition in a Car with Embedded Devices
 
 Esra Vural, Mujdat Cetin, Aytul Ercil, Gwen Littlewort, Marian Bartlett and Javier Movellan; Automated Drowsiness Detection For Improved Driving Safety
 
