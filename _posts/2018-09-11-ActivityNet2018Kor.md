@@ -4,59 +4,53 @@ layout: post
 category: Action
 tags: unit_action
 comments: true
-title: "Unit Actions - Face (Kor)"
-date: 2018-09-14 19:50:25 -0400
+title: "Unit Actions in Face (Kor)"
+date: 2018-09-15 07:51:01 -0400
 ---
 
-# Unit Actions - Face
+<hr>
+<h2 id="published-truelayout-postcategory-actiontags-unit_actioncomments-truetitle-unit-actions---face-kordate-2018-09-14-195025--0400">published: true<br>
+layout: post<br>
+category: Action<br>
+tags: unit_action<br>
+comments: true<br>
+title: “Unit Actions - Face (Kor)”<br>
+date: 2018-09-14 19:50:25 -0400</h2>
+<h1 id="unit-actions---face">Unit Actions - Face</h1>
+<p>얼굴영역의 분석을 위해, 얼굴과 관련된 단위 액션(<strong>unit actions</strong>)을 정리합니다. 주로 다음 논문을 참고하였습니다.</p>
+<p><a href="https://lajc.epn.edu.ec/index.php/LAJC/article/download/88/50">Human Activity Recognition in a Car with Embedded Devices</a></p>
+<p>Esra Vural, Mujdat Cetin, Aytul Ercil, Gwen Littlewort, Marian Bartlett and Javier Movellan; Automated Drowsiness Detection For Improved Driving Safety</p>
+<h1 id="example-of-unit-actions-in-face-region">Example of unit actions in face region</h1>
+<p>1 Inner Brow Raise<br>
+2 Outer Brow Raise</p>
+<p>4 Brow Lowerer<br>
+5 Upper Lid Raise<br>
+6 Cheek Raise<br>
+7 Lids Tight<br>
+8 Lip Toward<br>
+9 Nose Wrinkle<br>
+10 Upper Lip Raiser<br>
+11 Nasolabial Furrow Deepener<br>
+12 Lip Corner Puller<br>
+13 Sharp Lip Puller<br>
+14 Dimpler<br>
+15 Lip Corner Depressor<br>
+16 Lower Lip Depress<br>
+17 Chin Raise<br>
+18 Lip Pucker<br>
+19 Tongue show<br>
+20 Lip Stretch</p>
+<p>22 Lip Funneller<br>
+23 Lip Tightener<br>
+24 Lip Presser<br>
+25 Lips Part<br>
+26 Jaw Drop<br>
+27 Mouth Stretch<br>
+28 Lips Suck</p>
+<p>30 Jaw Sideways</p>
+<p>32 Bite</p>
+<p>38 Nostril Dilate<br>
+39 Nostril Compress</p>
+<p>45 Blink</p>
+<p>얼굴에서 찾을 수 있는 unit actions의 일부 예를 다음 그림에서 살펴볼 수 있습니다.</p>
 
-얼굴영역의 분석을 위해, 얼굴과 관련된 단위 액션(**unit actions**)을 정리합니다. 주로 다음 논문을 참고하였습니다.
-
-[Human Activity Recognition in a Car with Embedded Devices](https://lajc.epn.edu.ec/index.php/LAJC/article/download/88/50)
-
-Esra Vural, Mujdat Cetin, Aytul Ercil, Gwen Littlewort, Marian Bartlett and Javier Movellan; Automated Drowsiness Detection For Improved Driving Safety
-
-# [](https://github.com/secutron/secutron.github.io/blob/master/2018-09-14-UnitActionsInFace.md#example-of-unit-actions-in-face-region)Example of unit actions in face region
-
-1 Inner Brow Raise  
-2 Outer Brow Raise
-
-4 Brow Lowerer  
-5 Upper Lid Raise  
-6 Cheek Raise  
-7 Lids Tight  
-8 Lip Toward  
-9 Nose Wrinkle  
-10 Upper Lip Raiser  
-11 Nasolabial Furrow Deepener  
-12 Lip Corner Puller  
-13 Sharp Lip Puller  
-14 Dimpler  
-15 Lip Corner Depressor  
-16 Lower Lip Depress  
-17 Chin Raise  
-18 Lip Pucker  
-19 Tongue show  
-20 Lip Stretch
-
-22 Lip Funneller  
-23 Lip Tightener  
-24 Lip Presser  
-25 Lips Part  
-26 Jaw Drop  
-27 Mouth Stretch  
-28 Lips Suck
-
-30 Jaw Sideways
-
-32 Bite
-
-38 Nostril Dilate  
-39 Nostril Compress
-
-45 Blink
-
-얼굴에서 찾을 수 있는 unit actions의 일부 예를 다음 그림에서 살펴볼 수 있습니다.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MTgyOTg1XX0=
--->
