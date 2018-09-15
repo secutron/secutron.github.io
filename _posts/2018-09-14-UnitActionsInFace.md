@@ -8,6 +8,7 @@ title: "Unit Actions - Face
 date: 2018-09-14 19:50:25 -0400
 ---
 
+
 <h1 id="unit-actions---face">Unit Actions - Face</h1>
 <p>얼굴영역의 분석을 위해, 얼굴과 관련된 단위 액션(<strong>unit actions</strong>)을 정리합니다. 주로 다음 논문을 참고하였습니다.</p>
 <p><a href="https://lajc.epn.edu.ec/index.php/LAJC/article/download/88/50">Human Activity Recognition in a Car with Embedded Devices</a></p>
