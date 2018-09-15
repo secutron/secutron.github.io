@@ -10,8 +10,9 @@ date: 2018-09-15 07:51:01 -0400
 
 #SOTA tracks
 
-mAP 72.8%, 180FPS@1080TI, ECCV2018
+##[Real-Time, Multi-Person 2D Pose Estimation in the Wild](http://taikisekii.com/PDF/Sekii_ECCV18.pdf)
+
+###mAP 72.8%, *180FPS*@1080TI, ECCV2018
 
 - YouTube: [ECCV 2018 Paper Video](https://www.youtube.com/watch?v=4PSm8zFE1Cc&feature=youtu.be)
-- Paper: [Real-Time, Multi-Person 2D Pose Estimation in the Wild](http://taikisekii.com/PDF/Sekii_ECCV18.pdf)
 - Author: [Taiki SEKII](http://taikisekii.com/#profile), Konica Minolta, Inc.
