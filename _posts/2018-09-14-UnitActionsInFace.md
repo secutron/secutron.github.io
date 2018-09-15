@@ -16,18 +16,7 @@ tags: SOTAunit_action<br>
 comments: true<br>
 title: “SOTA tracks (Kor)”<br>
 date: 2018-09-15 07:51:01 -0400</h2>
-<hr>
-<h2 id="published-truelayout-postcategory-actiontags-comments-truetitle-unit-actions---face-kordate-2018-09-14-195025--0400">published: true<br>
-layout: post<br>
-category: Action<br>
-tags: unit_action<br>
-comments: true<br>
-title: “Unit Actions - Face (Kor)”<br>"
-date: 2018-09-14 19:50:25 -0400</h2>
 <h1 id="개요">개요</h1>
-<p>
----
-</p><h1 id="개요">개요</h1>
 <p>얼굴영역의 분석을 위해, 얼굴과 관련된 단위 액션(unit actions)을 정리합니다. 주로 다음 논문을 참고하였습니다.test test</p>
 <p><a href="https://lajc.epn.edu.ec/index.php/LAJC/article/download/88/50">Human Activity Recognition in a Car with Embedded Devices</a></p>
 <p>Esra Vural, Mujdat Cetin, Aytul Ercil, Gwen Littlewort, Marian Bartlett and Javier Movellan; Automated Drowsiness Detection For Improved Driving Safety</p>
