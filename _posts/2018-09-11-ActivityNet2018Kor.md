@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-category: post
+category: Action
 tags: ActivityNet
 comments: true
 title: "ActivityNet 2018 Summary (Kor)"
