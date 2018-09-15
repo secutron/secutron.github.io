@@ -4,8 +4,19 @@ layout: post
 category: Action
 tags: unit_action
 comments: true
-title: "Unit Actions in Face (Kor)
-date: 2018-09-15 07:51:01 -0400얼굴영역의 분석을 위해, 얼굴과 관련된 단위 액션(unit actions)을 정리합니다. 주로 다음 논문을 참고하였습니다.test testEsra Vural, Mujdat Cetin, Aytul Ercil, Gwen Littlewort, Marian Bartlett and Javier Movellan; Automated Drowsiness Detection For Improved Driving Safety</p>
+title: "Unit Actions in Face (Kor)"
+date: 2018-09-15 07:51:01 -0400
+---
+
+<hr>
+<h2 id="published-truelayout-postcategory-actiontags-unit_actioncomments-truetitle-unit-actions-in-face-kordate-2018-09-15-075101--0400">published: true<br>
+layout: post<br>
+category: Action<br>
+tags: unit_action<br>
+comments: true<br>
+title: “Unit Actions in Face (Kor)”<br>
+date: 2018-09-15 07:51:01 -0400</h2>
+<p>얼굴영역의 분석을 위해, 얼굴과 관련된 단위 액션(unit actions)을 정리합니다. 주로 다음 논문을 참고하였습니다.test testEsra Vural, Mujdat Cetin, Aytul Ercil, Gwen Littlewort, Marian Bartlett and Javier Movellan; Automated Drowsiness Detection For Improved Driving Safety</p>
 <h2 id="example-of-unit-actions-in-face-region1-inner-brow-raise">Example of unit actions in face region1 Inner Brow Raise</h2>
 <p>
 2 Outer Brow Raise4 Brow Lowerer<br>
@@ -32,7 +43,7 @@ date: 2018-09-15 07:51:01 -0400얼굴영역의 분석을 위해, 얼굴과 관�
 27 Mouth Stretch<br>
 28 Lips Suck30 Jaw Sideways32 Bite</p>
 38 Nostril Dilate<br>
-39 Nostril Compress</p>
+39 Nostril Compress
 <p>45 Blink</p>
 <p>얼굴에서 찾을 수 있는 unit actions의 일부 예를 다음 그림에서 살펴볼 수 있습니다.</p>
 <p><img src="https://imgur.com/a/bOolZg9" alt="enter image description here"></p>
@@ -41,6 +52,3 @@ date: 2018-09-15 07:51:01 -0400얼굴영역의 분석을 위해, 얼굴과 관�
 <p>
 test test</p>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MDUwNjU0XX0=
--->
