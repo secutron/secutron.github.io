@@ -9,7 +9,7 @@ date: 2018-09-14 19:50:25 -0400
 ---
 
 # Action Units - Face
-얼굴영역의 분석을 위해, 얼굴과 관련된 액션유닛(action units: AUs)을 정리합니다. 주로 다음 논문을 참고하였습니다.
+얼굴영역 분석을 위해, 얼굴과 관련된 액션유닛(action units: AUs)을 정리합니다. 주로 다음 논문을 참고하였습니다.
 
 위키: 
      https://en.wikipedia.org/wiki/Facial_Action_Coding_System
@@ -20,7 +20,7 @@ date: 2018-09-14 19:50:25 -0400
      Freitas-Magalhães, A. 2018 Facial Action Coding System 3.0 ISBN 978-989-8766-86-1.
 
 ## 개요
-AUs는 저명한 심리학자인 Ekman 등이 2002년 출판한 FACS(Facial Action Coding System)에서 찾아볼 수 있으며, 현재는 1) Main codes 28개, 2) Head movement codes 14개 등 확장된 형태를 아래 full list에서 살펴볼 수 있습니다. 
+AUs는 저명한 심리학자인 Ekman 등이 2002년 출판한 FACS(Facial Action Coding System)에서 찾아볼 수 있으며, 현재 1) Main codes 28개, 2) Head movement codes 14개 등 확장된 형태를 아래 full list에서 살펴볼 수 있습니다. 
 
 ## full list of unit actions in face region
 Main codes
