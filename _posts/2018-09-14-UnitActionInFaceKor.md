@@ -23,8 +23,7 @@ date: 2018-09-14 19:50:25 -0400
 AUs는 저명한 심리학자인 Ekman 등이 2002년 출판한 FACS(Facial Action Coding System)에서 찾아볼 수 있으며, 현재 1) Main codes 28개, 2) Head movement codes 14개 등 확장된 형태를 아래 full list에서 살펴볼 수 있습니다. 
 
 ## full list of unit actions in face region
-Main codes
-AU number	FACS name	Muscular basis
+### Main codes
 0	Neutral face	
 1	Inner brow raiser	frontalis (pars medialis)
 2	Outer brow raiser	frontalis (pars lateralis)
@@ -53,8 +52,8 @@ AU number	FACS name	Muscular basis
 26	Jaw drop	masseter; relaxed temporalis and internal pterygoid
 27	Mouth stretch	pterygoids, digastric
 28	Lip suck	orbicularis oris
-Head movement codes
-AU number	FACS name	Action
+
+### Head movement codes
 51	Head turn left	
 52	Head turn right	
 53	Head up	
@@ -69,8 +68,8 @@ M57	Head thrust forward	The onset of 17+24 is immediately preceded, accompanied,
 M59	Head shake up and down	The onset of 17+24 is immediately preceded, accompanied, or followed by an up-down head shake (nod).
 M60	Head shake side to side	The onset of 17+24 is immediately preceded, accompanied, or followed by a side to side head shake.
 M83	Head upward and to the side	The onset of the symmetrical 14 is immediately preceded or accompanied by a movement of the head, upward and turned and/or tilted to either the left or right.
-Eye movement codes
-AU number	FACS name	Action
+
+### Eye movement codes
 61	Eyes turn left	
 M61	Eyes left	The onset of the symmetrical 14 is immediately preceded or accompanied by eye movement to the left.
 62	Eyes turn right	
@@ -82,17 +81,16 @@ M62	Eyes right	The onset of the symmetrical 14 is immediately preceded or accomp
 M68	Upward rolling of eyes	The onset of the symmetrical 14 is immediately preceded or accompanied by an upward rolling of the eyes.
 69	Eyes positioned to look at other person	The 4, 5, or 7, alone or in combination, occurs while the eye position is fixed on the other person in the conversation.
 M69	Head and/or eyes look at other person	The onset of the symmetrical 14 or AUs 4, 5, and 7, alone or in combination, is immediately preceded or accompanied by a movement of the eyes or of the head and eyes to look at the other person in the conversation.
-Visibility codes
-AU number	FACS name
+
+### Visibility codes
 70	Brows and forehead not visible
 71	Eyes not visible
 72	Lower face not visible
 73	Entire face not visible
 74	Unsociable
-Gross behavior codes
-These codes are reserved for recording information about gross behaviors that may be relevant to the facial actions that are scored.
 
-AU number	FACS name	Muscular basis
+### Gross behavior codes
+These codes are reserved for recording information about gross behaviors that may be relevant to the facial actions that are scored.
 29	Jaw thrust	
 30	Jaw sideways	
 31	Jaw clencher	masseter
